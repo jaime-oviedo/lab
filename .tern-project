@@ -1,0 +1,22 @@
+{
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "jshint": {
+      
+    },
+    "browser-extension": {
+      
+    },
+    "cordovajs": {
+      
+    }
+  },
+  "libs": [
+    "browser"
+  ]
+}
